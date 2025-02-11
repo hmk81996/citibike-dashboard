@@ -45,3 +45,4 @@ The dashboard is available here: [Tableau](https://public.tableau.com/views/citi
 
 ## Analysis
 
+![Analysis](Images/analysis.jpg)
