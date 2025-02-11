@@ -24,7 +24,7 @@ The zip files for July and October were extremely large, containing between 5-6 
 
 ## Dashboard: User Trends
 
-![User Trends](Images/user_trends.jpg)
+![User Trends](Images/user_trends_new.jpg)
 
 ### - Trip Duration: Member vs Casual User
 ### - Weekday Frequency: Member vs Casual User
