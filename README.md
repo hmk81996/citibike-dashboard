@@ -7,7 +7,7 @@ Tableau Dashboard - Data Analytics Course Module 18
 # Methodology
 ## Data Selection and Cleaning
 
-I selected the following files from the Citi Bike trip data for the year 2024:
+I selected the following files from the New York Citi Bike trip data for the year 2024:
  - 202401 (January)
  - 202404 (April)
  - 202407 (July)
