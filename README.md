@@ -36,7 +36,7 @@ The zip files for July and October were extremely large, containing between 5-6 
 
 ## Results
 
-The dashboard is available here: [Tableau]([https://](https://public.tableau.com/app/profile/hannah.miles.kingrey/viz/citibike_analysis_17392480645700/Story1)).
+The dashboard is available here: [Tableau](https://public.tableau.com/app/profile/hannah.miles.kingrey/viz/citibike_analysis_17392480645700/Story1).
 
 ## Analysis
 
