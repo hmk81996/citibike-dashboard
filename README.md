@@ -2,7 +2,7 @@
 Tableau Dashboard - Data Analytics Course Module 18
 
 # Task
-
+In a hypothetical situation, as a lead analyst for the New York Citi Bike program I will generate reports for city officials looking to publicize and improve the city program. I will be creating several dashboards and interactive map features.
 
 # Methodology
 ## Data Selection and Cleaning
@@ -24,19 +24,23 @@ The zip files for July and October were extremely large, containing between 5-6 
 
 ## Dashboard: User Trends
 
-![Growth_Trends](Images/user_trends.jpg)
+![User Trends](Images/user_trends.jpg)
 
 ### Trip Duration: Member vs Casual User
 ### Weekday Frequency: Member vs Casual User
 ### Peak Hours
 
-## Dashboard: Dynamic Map
+## Dashboard: All Stations Map
 
-![Growth_Trends](Images/map.jpg)
+![All stations map](Images/map.jpg)
+
+## Dashboard: Top 10 Stations Map
+
+![Growth_Trends](Images/top10_map.jpg)
 
 ## Results
 
-The dashboard is available here: [Tableau](https://public.tableau.com/app/profile/hannah.miles.kingrey/viz/citibike_analysis_17392480645700/Story1).
+The dashboard is available here: [Tableau](https://public.tableau.com/views/citibike_analysis_17392480645700/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## Analysis
 
